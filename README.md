@@ -1,9 +1,4 @@
 # multiple-parents
-f
-
-fdsa
-fdsa
-
-
-fdsafasd
-fdsa
+3a
+3b
+3c
